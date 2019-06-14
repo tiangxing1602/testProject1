@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: bisque;
+}
+.title{
+    height: 66px;
+    width: 100%;
+    background-color: aquamarine;
+    box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.title-1{
+    height: 53px;
+    background-color: aqua;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.logo{
+    height: 31.5px;
+    width: 133px;
+    float: left;
+    margin-top: 17px;
+    margin-right: 0;
+}
+/* .logo img{
+    margin-top: 19px;
+} */
+.title-right{
+    float: right;
+    height: 40px;
+    position: relative;
+    top: 13px;
+}
+ul{
+    list-style-type: none;
+}
+.chazhao{
+    float: left;
+    border-left: none;
+    margin-right: 10px;
+}
+.chazhao img{
+    margin-top: 6px;
+}
+.caidan{
+    float: right;
+}
+.caidan {
+    display: block;
+    float: left;
+    padding: 0;
+    position: relative;
+    font-size: 21px;
+    height: 40px;
+    padding-left: 15px;
+    border-left: 1px solid #d4d4d4;
+    padding-right: 15px;
+}
