@@ -1,0 +1,155 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.clearfix:before,
+.clearfix:after{
+	content: " ";
+	display: table;
+}
+.clearfix:after{
+	clear: both;
+}
+.clearfix{
+	*zoom: 1;
+} 
+li {
+	list-style: none;
+	display: inline-block;
+}
+a{
+	cursor: pointer;
+}
+body>div{
+	width: 100%;
+	display: inline-block;
+}
+.div1{
+	width: 100%;
+	height: 6.6rem;
+	z-index: 99999999999999;
+	background-color: #fff;
+	position: fixed;
+	top: 0;
+}
+.div1_0>div{
+	display: inline-block;
+}
+.div1 img{
+	height: 3rem;
+	margin-top: 1.8rem;
+}
+.div1_0{
+	width: 90%;
+	margin: 0 auto;
+}
+.div1_1{
+	display: inline-block;
+}
+.div1_2{
+	float: right;
+}
+.div1_2 li{
+	width: 2.8rem;
+	height: 4rem;
+	padding: 0 1.2rem;
+}
+.div1_2 a{
+	font-size: 3rem;
+	line-height: 6.6rem;
+}
+.div2{
+	height: 13rem;
+	margin: 6.6rem 0 6rem;
+	background-color: skyblue;
+	position: relative;
+	overflow: hidden;
+}
+a {
+	font: 1.4rem "Microsoft Arial" ;
+	color: #111;
+	text-decoration: none;	
+}
+.div2 a{
+	position: absolute;
+	left: 2rem;
+	top: 2rem;
+}
+.div2 h1{
+	font: 600 3.4rem "Microsoft Arial";
+	color: #333;
+	position: absolute;
+	bottom: 2rem;
+	left: 2rem;
+}
+.div3>div{
+	width: 100%;
+	margin: 0 auto;
+}
+.div3_1{
+	padding: 0 2.2rem;
+	margin-bottom: 4rem;
+}
+h2{
+	font: 600 2.9rem "Microsoft Arial";
+
+}
+.div3_2 img{
+	width: 100%;
+	vertical-align: bottom;
+}
+.div3_3{
+	padding: 3.5rem 1.5rem;
+	background-color: #dadada;
+}
+.div3_3_1{
+	font-size: 1.4rem;
+	color: #666;
+	text-align: center;
+}
+.div3_3_2{
+	padding: 0 2.2rem;
+	font: 1.8rem "Microsoft Arial";
+	text-align: center;
+}
+.div3_3_2 h3{
+	padding: 0.5rem 0 1.5rem;
+}
+.div4{
+	margin: 2rem 0 4rem;
+}
+.div4>div{
+	width: 100%;
+	margin: 0 auto;
+}
+.div4 ul{
+	padding: 0 2.2rem;
+}
+.div4_1 li{
+	margin-top: 4rem;
+}
+.div4_1 div{
+	font-size: 1.4rem;
+	color: #666;
+}
+.div4_1 h3{
+	font:  1.8rem "Microsoft Arial";
+	line-height: 3rem;
+}
+.div5{
+	margin: 0 auto;
+	position: relative;
+}
+.div5_1{
+	padding: 0 2.2rem;
+}
+.div5_2{
+	margin-top: 6rem;
+	padding: 0 1.2rem;
+}
+.div5_2 img{
+	width: 18.8rem;
+}
+.div5_2_1{
+	width: 100%;
+}
