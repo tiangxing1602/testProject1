@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.header nav {
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+    height:8em;
+}
+.header .hw1logo {
+    margin-right: 0;
+    margin-top: 17px;
+}
+.header .hw1logo {
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.header .masthead {
+    float: right;
+    height: 40px;
+    position: relative;
+    margin-top: -2rem;
+}
+.hw1logo img {
+    height: 5rem;
+    width: 16rem;
+}
+ul,ol {
+    margin-top: 0;
+    margin-bottom: 13px;
+}
+ul,ol {
+    padding-left: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.header .masthead > ul > li:first-child {
+    border-left: 0;
+}
+.header .masthead > ul > li {
+    display: block;
+    float: left;
+    font-size: 21px;
+    padding-left: 15px;
+    border-left: 1px solid #d4d4d4;
+    padding-right: 15px;
+    margin-top: -2rem;
+}
+ul.clearfix img {
+    width: 5rem;
+}
+.header .search-box {
+    position: absolute;
+    margin-top: 1px;
+    border-bottom: 1px solid #d4d4d4;
+    padding-bottom: 8px;
+    padding-top: 1rem;
+    padding-left: 30px;
+    box-shadow: 0px 0 10px #b3b3b3;
+    width: 100%;
+    margin: auto;
+    background: white;
+}
+.header .search-input {
+    width: 90%;
+    height: 5rem;
+    position: relative;
+    display: inline-block;
+    padding-right: 50px;
+}
+.hwic_search img {
+    position: absolute;
+    width: 3rem;
+    left: -7em;
+    top: .5em;
+}
+div#breadmob a {
+    font-size: 3em;
+}
+.header .search-box input {
+    width: 85%;
+    height: 4rem;
+    border: 1px solid #d4d4d4;
+    line-height: 48px;
+    border-radius: 5px;
+    padding-left: 20px;
+    outline: none;
+    font-size: 16px;
+    padding-right: 50px;
+}
+header #hw1_global_nav nav .search a {
+    color: #282828;
+}
+.moblie-search-btn {
+    right: 65px;
+}
+.moblie-search-btn {
+    position: absolute;
+    top: .3em;
+    right: 3em;
+}
+.icon1 {
+    padding-top: 5rem;
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 5em;
+    font-style: normal;
+    margin-left: 1em;
+}
+.moblie-search-close {
+    position: absolute;
+    right: 3em;
+}
+
+
+.conta .qewr {
+    margin-left: 1em;
+    width: 90%;
+    margin: auto;
+}
+div#breadmob a {
+    font-size: 1.3em;
+    color: black;
+}
+.container1 {
+    padding-top: 1rem;
+}
+.col6 h1 {
+    font-size: 3em;
+}
+.conta p {
+    margin-top: .4em;
+    font-size: 2.4em;
+}
+.col-sm-4.lastone {
+    border-bottom: none;
+}
+.conta {
+    height: 21rem;
+    padding-top: 2em;
+    margin-top: 6em;
+}
+.BannerClass.presscenter {
+    margin-top: 2rem;
+}
+.vie {
+    width: 70%;
+    margin: auto;
+    margin-top: 6rem;
+}
+.vied {
+    width: 90%;
+    margin: auto;
+}
+.vie img {
+    width: 95%;
+}
+.content p {
+    font-size: 1.5em;
+    color: rgb(49, 46, 46);
+    margin-top: .7em;
+    line-height: 2.2em;
+}
+.container3 {
+    width: 90%;
+    margin: auto;
+}
+.title h2 {
+    display: inline;
+    font-size: 3em;
+}
+a.iconfont-flash {
+    float: right;
+    font-size: 2.3em;
+    color: black;
+    margin-top: .4em;
+}
+.annualreports {
+    margin-top: 12em;
+}
+.card-box {
+    margin-top: 3em;
+    border-radius: 2em;
+    box-shadow: 1px 0 20px #cccccc;
+}
+.col-sm-4 {
+    height: 9em;
+    width: 90%;
+    margin: auto;
+    padding-top: 3em;
+    text-align: center;
+    border-bottom: 1px solid;
+    font-size: 3em;
+    line-height: 2.4em;
+
+}
+.pric {
+    color: rgb(97, 134, 236);
+    font-size: 2.3em;
+}
+.container4 {
+    width: 90%;
+    margin: auto;
+    margin-top: 4em;
+}
+.col4 {
+    float: left;
+    width: 90%;
+    height: 11em;
+    font-size: 2em;
+    margin-left: 1em;
+    margin-top: 2.5em;
+    border-radius: .4em;
+    background: #dde6ed
+}
+.card-img {
+    float: right;
+}
+img.lazy {
+    width: 10em;
+    height: 11em;
+    border-radius: .4em;
+}
+.card-content {
+    width: 60%;
+    color: black;
+}
+.category-name {
+    font-size: .9em;
+    padding-top: 1.5rem;
+    margin-left: 1em;
+    color: black;
+}
+.height-fixed.js-text-dot-cn {
+    padding-left: 1em;
+    padding-top: .5rem;
+}
+.card-content p {
+    padding-top: .3rem;
+    line-height: 3.8rem;
+}
+span.read-more.hidden-xs {
+    margin-left: 80%;
+}
+.anchorpoint::after{
+    clear: both;
+}
+footer {
+    margin-top: 221em;
+    background: #f0f0f0;
+    
+}
+.contain{
+    padding-top: 1.5em;
+}
+div#footer {
+    width: 90%;
+    margin: auto;
+}
+.colmd {
+    margin-top: 4em;
+    height: 16em;
+}
+.colmd a {
+    color: black;
+}
+h3.iconfont-flash {
+    font-size: 2.6em;
+    padding-left: 1rem;
+}
+.colmd li a {
+    color: black;
+}
+.colmd em {
+    margin-left: 1rem;
+    font-size: 3rem;
+}
+.colmd li {
+    width: 38%;
+    float: left;
+    font-size: 2em;
+    margin-left: 1.2em;
+    margin-top: .5rem;
+}
+.copy {
+    background: #f0f0f0;
+}
+.cosdd {
+    height: 7em;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 3rem;
+}
+.cosda li {
+    float: left;
+    margin-left: 2em;
+}
+.cosda {
+    height: 3em;
+    background: black;
+}
+.cosdd a {
+    color: black;
+}
+ul.final {
+    width: 60%;
+    margin: auto;
+}
+ul.final li a {
+    color: white;
+    font-size: 2em;
+}
