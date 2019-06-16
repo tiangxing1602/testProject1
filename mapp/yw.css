@@ -4,7 +4,6 @@
 }
 html{
 	font-Size:37px;
-	
 }
 ul{
 	list-style:none;
@@ -15,6 +14,9 @@ li{
 img{
 	width:100%;
 	height:100%;
+}
+.viewport{
+
 }
 .top-menu{
 	z-index:900;
@@ -37,4 +39,38 @@ img{
 	width:3rem;
 }
 .menu-a{
+}
+
+
+.main1{
+	width:100%;
+	overflow:hidden;
+}
+.main1-p0{
+	width:300%;
+	font-Size:0;
+	animation:myfirst 5s ;
+	aanimation-iteration-count:infinite;
+}
+@keyframes myfirst{
+	0%{margin-left:0;} 
+	50% {margin-left:-100%;}
+	100% {margin-left:-200%;}
+}
+.main1-p1{
+	height:20rem;
+	width:33.33333%;
+	display:inline-block;
+	background-image:url(img/case5.jpg);
+	background-size:100% 100%;
+}
+.p1-h{
+	font-Size:1rem;
+}
+.main1-p2{
+	height:20rem;
+	width:33.33333%;
+	display:inline-block;
+	background-image:url(img/case6.jpg);
+	background-size:100% 100%;
 }
