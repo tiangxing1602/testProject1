@@ -1,6 +1,7 @@
 *{
 	margin:0px;
 	padding:0px;
+	margin-bottom:20px;
 }
 html{
 	font-Size:37px;
@@ -16,11 +17,19 @@ img{
 	height:100%;
 }
 .viewport{
-
+	
+	position:relative;
+}
+.menu-h{
+	background-color:white;
+	width:100%;
+	position:fixed;
+	top:0;
 }
 .top-menu{
 	z-index:900;
 	height:3rem;
+	
 }
 .logo{
 	width:10rem;
@@ -42,9 +51,12 @@ img{
 }
 
 
+
+
 .main1{
 	width:100%;
 	overflow:hidden;
+	margin-top:4rem;
 }
 .main1-p0{
 	width:300%;
@@ -63,9 +75,19 @@ img{
 	display:inline-block;
 	background-image:url(img/case5.jpg);
 	background-size:100% 100%;
+	vertical-align: top;
+}
+.p1-d{
+	padding:28%;
+	color:white;
 }
 .p1-h{
-	font-Size:1rem;
+	font-Size:2rem;
+}
+.p1-b{
+	background-color:#d64e68;
+	font-Size:1.5rem;
+	color:white;
 }
 .main1-p2{
 	height:20rem;
@@ -73,4 +95,40 @@ img{
 	display:inline-block;
 	background-image:url(img/case6.jpg);
 	background-size:100% 100%;
+    vertical-align: top;
+}
+
+
+.main4{
+}
+.main4-p0{
+	padding:10%;
+	background-color: #424ea012;
+}
+.main4-p1{
+}
+.main4-p2{
+	text-align: center;
+}
+.main4-li{
+	width:49%;
+	height:49%;
+}
+.main4-img2{
+	width:20%;
+	display:inline-block;
+}
+.main4-p22{
+	width:80%;
+	display:inline-block;
+	font-Size:2rem;
+	vertical-align:top;
+	line-height: 3rem;
+}
+.main4-li2{
+	font-Size:0;
+	width:100%;
+	background-color:white;
+	margin-bottom: 10%;
+	    text-align: start;
 }
