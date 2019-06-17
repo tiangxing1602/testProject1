@@ -1,6 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
+	color: #3d3939;
 }
 .clearfix:before,
 .clearfix:after{
@@ -16,9 +17,6 @@
 li {
 	list-style: none;
 	display: inline-block;
-}
-a{
-	cursor: pointer;
 }
 body>div{
 	width: 100%;
@@ -68,7 +66,8 @@ body>div{
 a {
 	font: 1.4rem "Microsoft Arial" ;
 	color: #111;
-	text-decoration: none;	
+	text-decoration: none;
+	cursor: pointer;	
 }
 .div2 a{
 	position: absolute;
@@ -144,12 +143,109 @@ h2{
 	padding: 0 2.2rem;
 }
 .div5_2{
-	margin-top: 6rem;
+	margin: 15rem 0 6rem;
 	padding: 0 1.2rem;
 }
 .div5_2 img{
 	width: 18.8rem;
+	position: absolute;
+	top: -9rem;
+	left: 6rem;
 }
-.div5_2_1{
+.div5_2 a{
+	padding: 0 2.2rem;
+	margin: 0 auto;
+	position: relative;
+}
+.div5_text{
+	padding: 14rem 0 4rem;
+	background-color: skyblue;
+	text-align: center;
+}
+.div5_text h3{
+	font: 600 2.4rem "Microsoft Arial";
+	line-height: 4rem;
+}
+.div5_text span{
+	display: block;
+	font: 1.6rem "Microsoft Arial";
+	padding: 0 3rem;
+}
+.div5_text p{
+	font: 1.8rem "Microsoft Arial";
+	padding: 0 3rem;
+}
+.div6{
+	margin: 0 auto;
+}
+.div6>div{
+	padding: 0 2.2rem;
+}
+.div6_1 h2{
+	margin-bottom: 2rem;
+}
+.div6_2{
+	margin-bottom: 6rem;
+}
+.div6_2_1{
+	box-shadow: 0 0rem 2rem #b0b0b0;
+}
+.div6_text{
+	padding: 2rem 0;
+	margin: 0 2rem;
+	text-align: center;
+	border-bottom: .1rem solid #b0b0b0;
+}
+.div6_text span{
+	font: 1.8rem "Microsoft Arial";
+}
+.div6_text div{
+	font: 6rem "Microsoft Arial";
+	color: skyblue;
+	line-height: 10rem;
+}
+.div6_2 .text_down{
+	border: none;
+}
+.div7{
+	margin: 0 auto;
+}
+.div7_1{
+	padding: 0 2.2rem;
+}
+.div7_2{
 	width: 100%;
+	margin-bottom: 6rem;
+}
+.div7_2 img{
+	margin: 4rem 3.3rem  0;
+}
+.div7_2 p{
+	font: 600 2.4rem "Microsoft Arial";
+	padding: 0 2.2rem;
+	line-height: 4rem;
+}
+.div8{
+	background-color: #e6e7e8;
+}
+.div8_1{
+	padding: 4rem 2.2rem 0;
+}
+.div8_1 em{
+	font-size: 3rem;
+	margin-right: 2rem;
+}
+.div8_2{
+	padding: 0 2.2rem;
+	margin-top: 4rem;
+}
+.div8_2_1{
+	font: 600 2.4rem "Microsoft Arial";
+	margin-bottom: 2rem;
+}
+.div8_2 li{
+	width: 49%;
+	font:  1.6rem "Microsoft Arial";
+	color: #5c5959;
+	margin-bottom: 1rem;
 }
