@@ -1,0 +1,209 @@
+.top {
+			width: 414px;
+			height: 66px;
+			box-shadow: 1px 1px 4px 3px rgba(1,1,1,0.2);
+
+		}
+		.top-images {
+			padding: 0px 22px;
+		}
+		.logo {
+			width: 133px;
+			height: 30px;
+			display: inline-block;
+			padding-top: 16px;
+			/*padding-left: 22px;*/
+			float: left;
+		}
+		.logo1 {
+			display: inline-block;
+			padding-top: 20px;
+			padding-right: 10px;
+			float: right;
+			border-right: 1px solid #C8C8C8;
+		}
+		.logo2 {
+			display: inline-block;
+			padding-top: 20px;
+			padding-left: 10px;
+			float: right;
+
+		}
+		.shouye {
+			color: #000000;
+			text-decoration: none;
+		}
+		.shou-div {
+			height: 28px;
+			padding-top: 20px;
+			padding-left: 22px;
+		}
+		.shou-div-f {
+			width: 422.4px; 
+			height: 68.8px;
+
+		}
+		.zhuti {
+			width: 422.4px;
+			height: 1671.83px;
+			padding: 0px 22px;
+		}
+		.shaixuan {
+			width: 378.4px;
+			height: 38.4px;
+			background-color: #fff;
+			border: 1px solid #C8C8C8;
+			border-radius: 5px;
+			margin: 0px 0px 20px;
+		}
+		.content {
+			width: 222.56px;
+			height: 100px;
+			display: inline-block;
+			border-radius: 5px 0px 0px 5px;
+			background-color: #DDE6ED;
+			padding: 20px 15px;
+			float: left;
+			margin-top: 15px;
+		}
+		#one {
+			color: #666666;
+			font: 14px "Microsoft YaHei";
+		}
+		h3 {
+			font: 22px "Microsoft YaHei";
+			color: #282828;
+			margin: 5px 0px;
+			font-weight: 700;
+		}
+		.images1 {
+			width: 160.41px;
+			height: 140px;
+			float: left;
+			margin-top: 15px;
+			border-radius: 0px 5px 5px 0px;
+		}
+		.yema {
+			width: 378.4px;
+			height: 43.83px;
+			margin: 20px 22px 0px;
+
+		}
+		.yema-1 {
+			/*display: block;*/
+			width: 54px;
+			height: 26px;
+			border: 1px solid #C8C8C8;
+			border-radius: 5px;
+			box-sizing: border-box;
+			padding-left: 22px;
+			margin-right: 10px;
+		}
+		span {
+			font: 14px "Microsoft YaHei";
+			color: #282828;
+		}
+		.yema-2 {
+			font: 14px "Microsoft YaHei";
+			text-decoration: none;
+			color: #282828;
+		}
+		.footer {
+			width: 464.4px;
+			height: 1305.2px;
+			background-color: #F0F0F0;
+			margin-top: 120px;
+		}
+		.tubiao {
+			width: 422.4px;
+			height: 43px;
+			padding: 0px 23px;
+			padding-top: 40px;
+			margin-bottom: 20px;
+
+		}
+		.weibo {
+			display: inline-block;
+			width: 50px;
+			height: 31px;
+			background-image: url(huawei_images/timg1.jpg);
+			margin-right: 20px;
+		}
+		.linkin {
+			display: inline-block;
+			width: 45px;
+			height: 35px;
+			background-image: url(huawei_images/YL[SOAL711_BRO@7FKKIHG7.png);
+			margin-right: 20px;
+		}
+		.weixin {
+			display: inline-block;
+			width: 40px;
+			height: 34px;
+			background-image: url(huawei_images/weixin.png);
+			margin-right: 20px;
+		}
+		.toutiao {
+			display: inline-block;
+			width: 44px;
+			height: 42px;
+			background-image: url(huawei_images/toutiao.png);
+			margin-right: 20px;
+
+		}
+		.zhihu {
+			display: inline-block;
+			width: 44px;
+			height: 42px;
+			background-image: url(huawei_images/zhihu.png);
+		}
+		.footer-content {
+			width: 400.4px;
+			/*height: 196.8px;*/
+			padding: 0px 30px;
+			margin-bottom: 20px;
+		}
+		.footer>.footer-content>ul {
+			padding-left: 0px;
+		}
+		.footer>.footer-content>ul>li {
+			display: inline-block;
+			width: 189.2px;
+			height: 35.6px;
+			color: #222222;
+			font-size: 18px;
+		}
+		/*.footer>.footer-content>ul>li>img {
+			margin-top: 2px;
+		}*/
+		.end {
+			width: 422.4px;
+			height: 13.6px;
+		}
+		.uuu {
+			width: 410px;
+			height: 25px;
+			font-size: 16px;
+			text-align: center;
+			margin-bottom: 11px;
+		}
+		.end-ul {
+			width: 422.4px;
+			height: 40px;
+			background-color: #282828;
+		}
+		.end-ul>ul {
+			width: 341px;
+			height: 40px;
+			/*background-color: #282828;*/
+			text-align: center;
+		}
+		.end-ul>ul>li {
+			display: inline-block;
+			width: 83px;
+			height: 40px;
+			color: #ffffff;
+			line-height: 40px;
+		}
+
+		
