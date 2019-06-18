@@ -130,5 +130,42 @@ img{
 	width:100%;
 	background-color:white;
 	margin-bottom: 10%;
-	    text-align: start;
+	text-align: start;
+}
+
+
+.foot{
+	background-color:#2b2b2b;;
+	color:white;
+	margin:0px;
+}
+.foot-m{
+	padding:5%;
+}
+.foot-mp0{
+}
+
+.foot-li2{	
+	width:100%;
+	text-align: start;
+}
+.foot-p1{
+	width:80%;
+	display:inline-block;
+	font-Size:1.5rem;
+	vertical-align:top;
+}
+.foot-p{
+	width:80%;
+	display:inline-block;
+	font-Size:1.3rem;
+	vertical-align:top;
+}
+.foot-f{
+	padding:5%;
+}
+
+.foot-li3{	
+	width:10%;
+	text-align: start;
 }
